@@ -1,7 +1,8 @@
 +++
 # Recent and Upcoming Talks widget.
-widget = "talks"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+widget = "talks"
+active = false
+date = 2016-04-20T00:00:00
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
@@ -12,13 +13,13 @@ weight = 30
 # Number of talks to list.
 count = 10
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 2
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = Stream
+list_format = 2
 
-# Exclude talks that are shown in the Featured Talks widget?
-exclude_featured = false
+# Exclude talks that are shown in the Selected Talks widget?
+exclude_selected = false
 +++
 

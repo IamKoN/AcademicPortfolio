@@ -38,6 +38,17 @@ interests = [
   year = 2014
 
 # Social/Academic Networking
+# Icon pack "fab" includes the following social network icons:
+#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+#   youtube, instagram, soundcloud
+#   For email icon, use "fas" icon pack, "envelope" icon, and
+#   "mailto:your@email.com" as the link.
+#   Full list: https://fontawesome.com/icons
+#
+# Icon pack "ai" includes the following academic icons:
+#   cv, google-scholar, arxiv, orcid, researchgate, mendeley
+#   Full list: https://jpswalsh.github.io/academicons/
+
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
@@ -59,7 +70,7 @@ interests = [
 
 [[social]]
   icon = "linkedin"
-  icon_pack = "ai"
+  icon_pack = "fab"
   link = "https://www.linkedin.com/in/nathan-s-robinson/"
 
 #[[social]]
@@ -75,13 +86,7 @@ interests = [
   link = "files/cv.pdf"
 
 +++
+Using technology and programming to improve the lives around me is my passion. I have always enjoyed many disciplines: math, writing, design, science, art. The challenge of problem solving and the process of creating something beautiful were both satisfying. When I realized as a software developer that I could be both author and architect, artist and engineer, I knew I had found my calling. My goal as a professional is use my skills to build a world that continues to value equality, peace, and truth.
 
-We all have a responsibility to leave a legacy behind us that is better than the one that was left before us. Using technology and programming to improve the lives around me is my passion.
-
-I have always enjoyed many disciplines: math, writing, design, science, art. The challenge of problem solving and the process of creating something beautiful were both satisfying, so I struggled to figure out which profession was for me. When I realized as a software developer that I could be both author and architect, artist and engineer, I knew I had found my future. My goal as a professional is use my software skills to build a better world, a world that values equality, peace, and truth.
-
-I have implemented an AWS software system capable of streaming clinical data and lab results through a machine learning model that can diagnose patients with sepsis and predict the probability of developing sepsis, all in real-time and at scale. This research project is not just academics, it can save lives, and that what is exciting about software development.
-
-My work should benefit others and there is no reason to wait to make that happen. I have little interest in work that does not accomplish this. If you or your company have a similar approach to the work you do, I would love to talk to you.
 
   

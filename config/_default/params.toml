@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "dark"
+color_theme = "coffee"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -59,24 +59,6 @@ office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
-
-# Social/Academic Networking
-#
-# Icon pack "fab" includes the following social network icons:
-#
-#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-#   youtube, instagram, soundcloud
-#
-#   For email icon, use "fas" icon pack, "envelope" icon, and
-#   "mailto:your@email.com" as the link.
-#
-#   Full list: https://fontawesome.com/icons
-#
-# Icon pack "ai" includes the following academic icons:
-#
-#   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-#
-#   Full list: https://jpswalsh.github.io/academicons/
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

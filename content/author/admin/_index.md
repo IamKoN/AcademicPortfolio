@@ -86,7 +86,9 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-Using technology and programming to improve the lives around me is my passion. I have always enjoyed many disciplines: math, writing, design, science, art. The challenge of problem solving and the process of creating something beautiful were both satisfying. When I realized as a software developer that I could be both author and architect, artist and engineer, I knew I had found my calling. My goal as a professional is use my skills to build a world that continues to value equality, peace, and truth.
+ I have always enjoyed many disciplines: math, writing, design, science, art. The challenge of problem solving and the process of creating something beautiful were both satisfying. When I realized as a software developer that I could be both author and architect, artist and engineer, I knew I had found my calling.
+ 
+ Using technology and programming to improve the lives around me is my passion. My goal as a professional is use my skills to build a world that continues to value equality, peace, and truth.
 
 
   

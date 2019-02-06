@@ -88,7 +88,7 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:nsean.robinson+githubio@gmail.com"},
   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/Nathan.S.Robinson"},
-  {icon = "linkedin", icon_pack = "ai", name = "LinkedIn", link = "https://https://www.linkedin.com/in/nathan-s-robinson"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://https://www.linkedin.com/nathan-s-robinson"},
   
   ]
 

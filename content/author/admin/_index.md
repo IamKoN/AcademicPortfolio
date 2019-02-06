@@ -60,7 +60,7 @@ interests = [
 [[social]]
   icon = "linkedin"
   icon_pack = "ai"
-  link = "https://www.linkedin.com/in/nathan-robinson-a86075138/"
+  link = "https://www.linkedin.com/in/nathan-s-robinson/"
 
 #[[social]]
 #  icon = "google-scholar"
